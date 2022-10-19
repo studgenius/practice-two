@@ -4,28 +4,9 @@
     box-sizing: border-box;
 }
 
-.column1 {
+.column {
     float: left;
     width: 25%;
-    background-color: #46AAE8;
-}
-
-.column2 {
-    float: left;
-    width: 25%;
-    background-color: #59ECFF;
-}
-
-.column3 {
-    float: right;
-    width: 25%;
-    background-color: #46E8CE;
-}
-
-.column4 {
-    float: right;
-    width: 25%;
-    background-color: #4DFFB0;
 }
 
 .row::after {
