@@ -17,13 +17,13 @@
 }
 
 .column3 {
-    float: left;
+    float: right;
     width: 25%;
     background-color: #46E8CE;
 }
 
 .column4 {
-    float: left;
+    float: right;
     width: 25%;
     background-color: #4DFFB0;
 }
